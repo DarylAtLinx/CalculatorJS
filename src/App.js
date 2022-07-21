@@ -13,7 +13,7 @@ export const ACTIONS = {
 }
 
 
-
+//Daryl's funky edit
 function reducer(state, { type, payload }) {
   switch (type) {
     case ACTIONS.ADD_DIGIT:
